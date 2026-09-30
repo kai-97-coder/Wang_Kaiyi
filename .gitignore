@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+hw02/data/binge_prevalence.csv
+hw02/data/poverty_prevalence.csv

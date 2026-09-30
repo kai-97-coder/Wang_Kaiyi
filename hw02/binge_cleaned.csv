@@ -1,0 +1,154 @@
+state,state_abbr,year,binge_all,binge_male,binge_female,poverty
+Alaska,AK,2019,13.1,10.5,15.2,17.7
+Alaska,AK,2021,,,,16.7
+Alaska,AK,2023,9.0,9.7,8.4,
+Alabama,AL,2019,10.0,9.4,10.5,25.4
+Alabama,AL,2021,,,,25.8
+Alabama,AL,2023,,,,
+Arkansas,AR,2019,12.2,15.2,9.1,27.8
+Arkansas,AR,2021,9.6,7.9,11.2,27.2
+Arkansas,AR,2023,12.8,12.6,12.9,
+Arizona,AZ,2019,14.7,13.4,15.8,21.9
+Arizona,AZ,2021,11.3,10.9,11.9,21.2
+Arizona,AZ,2023,,,,
+California,CA,2019,7.1,6.1,8.1,19.6
+California,CA,2021,,,,20.0
+California,CA,2023,,,,
+Colorado,CO,2019,13.1,11.6,14.1,15.3
+Colorado,CO,2021,13.8,14.4,13.6,15.8
+Colorado,CO,2023,,,,
+Connecticut,CT,2019,12.9,11.5,14.4,16.6
+Connecticut,CT,2021,7.0,5.6,8.5,16.0
+Connecticut,CT,2023,11.6,9.1,14.1,
+District of Columbia,DC,2019,8.5,7.7,8.9,20.1
+District of Columbia,DC,2021,6.1,4.2,7.8,20.8
+District of Columbia,DC,2023,6.8,5.4,8.2,
+Delaware,DE,2019,,,,17.3
+Delaware,DE,2021,8.4,5.8,11.2,18.6
+Delaware,DE,2023,9.0,7.2,10.2,
+Florida,FL,2019,12.4,12.0,12.6,21.9
+Florida,FL,2021,12.2,10.7,13.7,22.0
+Florida,FL,2023,,,,
+Georgia,GA,2019,6.2,5.6,6.4,22.3
+Georgia,GA,2021,14.3,12.2,16.6,22.4
+Georgia,GA,2023,,,,
+Hawaii,HI,2019,10.9,8.1,13.2,14.6
+Hawaii,HI,2021,8.3,7.6,9.2,16.7
+Hawaii,HI,2023,8.6,6.9,10.4,
+Iowa,IA,2019,11.2,12.2,10.2,18.4
+Iowa,IA,2021,9.7,9.4,10.1,18.6
+Iowa,IA,2023,,,,
+Idaho,ID,2019,15.9,15.9,16.0,20.1
+Idaho,ID,2021,11.7,9.6,13.3,19.4
+Idaho,ID,2023,,,,
+Illinois,IL,2019,10.1,10.2,10.1,18.7
+Illinois,IL,2021,11.6,8.1,15.2,19.2
+Illinois,IL,2023,,,,
+Indiana,IN,2019,,,,20.9
+Indiana,IN,2021,10.5,8.8,12.3,20.1
+Indiana,IN,2023,11.9,12.1,11.7,
+Kansas,KS,2019,18.8,19.0,18.6,19.5
+Kansas,KS,2021,13.3,13.7,12.0,20.1
+Kansas,KS,2023,,,,
+Kentucky,KY,2019,10.3,11.8,8.6,25.3
+Kentucky,KY,2021,8.0,7.0,8.9,26.2
+Kentucky,KY,2023,9.9,9.6,10.1,
+Louisiana,LA,2019,10.7,12.6,8.8,28.5
+Louisiana,LA,2021,11.0,11.2,10.6,29.3
+Louisiana,LA,2023,,,,
+Massachusetts,MA,2019,15.0,15.1,14.9,15.0
+Massachusetts,MA,2021,11.4,10.7,12.1,15.9
+Massachusetts,MA,2023,10.1,8.9,11.3,
+Maryland,MD,2019,12.0,10.9,12.6,14.7
+Maryland,MD,2021,9.8,8.4,11.0,15.8
+Maryland,MD,2023,9.0,8.0,10.1,
+Maine,ME,2019,,,,18.6
+Maine,ME,2021,,,,18.9
+Maine,ME,2023,,,,
+Michigan,MI,2019,11.2,10.1,12.3,21.1
+Michigan,MI,2021,6.8,5.4,8.2,21.2
+Michigan,MI,2023,8.3,7.8,8.5,
+Minnesota,MN,2019,,,,15.1
+Minnesota,MN,2021,,,,14.9
+Minnesota,MN,2023,,,,
+Missouri,MO,2019,15.2,13.4,16.6,21.6
+Missouri,MO,2021,14.1,12.7,15.7,20.9
+Missouri,MO,2023,10.6,9.1,12.3,
+Mississippi,MS,2019,10.1,10.8,9.5,30.6
+Mississippi,MS,2021,9.7,9.2,9.9,30.5
+Mississippi,MS,2023,7.2,7.7,6.8,
+Montana,MT,2019,17.5,16.9,18.3,21.6
+Montana,MT,2021,16.4,15.3,17.6,19.5
+Montana,MT,2023,13.4,12.7,14.0,
+North Carolina,NC,2019,12.5,11.3,14.0,22.8
+North Carolina,NC,2021,9.9,8.4,11.1,22.2
+North Carolina,NC,2023,,,,
+North Dakota,ND,2019,15.6,15.2,16.1,17.5
+North Dakota,ND,2021,14.0,13.6,14.5,16.9
+North Dakota,ND,2023,10.3,10.1,10.5,
+Nebraska,NE,2019,8.2,6.3,10.1,17.8
+Nebraska,NE,2021,9.1,8.5,9.4,17.9
+Nebraska,NE,2023,4.1,4.1,4.2,
+New Hampshire,NH,2019,14.4,13.8,14.8,12.9
+New Hampshire,NH,2021,11.2,10.5,12.0,12.0
+New Hampshire,NH,2023,11.6,10.7,12.6,
+New Jersey,NJ,2019,15.3,14.0,16.6,15.1
+New Jersey,NJ,2021,15.2,16.3,13.6,16.0
+New Jersey,NJ,2023,12.5,12.3,12.7,
+New Mexico,NM,2019,12.1,11.0,13.2,27.2
+New Mexico,NM,2021,,6.5,9.8,29.8
+New Mexico,NM,2023,6.8,5.2,8.4,
+Nevada,NV,2019,13.3,12.0,14.8,21.2
+Nevada,NV,2021,10.3,8.2,11.8,23.1
+Nevada,NV,2023,6.6,5.0,7.7,
+New York,NY,2019,12.7,11.0,13.9,19.9
+New York,NY,2021,10.2,8.4,11.1,21.4
+New York,NY,2023,,,,
+Ohio,OH,2019,13.4,12.3,14.5,21.1
+Ohio,OH,2021,12.6,11.4,13.9,21.2
+Ohio,OH,2023,12.2,11.4,12.9,
+Oklahoma,OK,2019,13.2,13.0,13.4,24.8
+Oklahoma,OK,2021,13.1,11.7,14.7,25.3
+Oklahoma,OK,2023,14.2,14.3,13.8,
+Oregon,OR,2019,,,,18.9
+Oregon,OR,2021,,,,20.3
+Oregon,OR,2023,,,,
+Pennsylvania,PA,2019,11.2,11.4,11.0,19.1
+Pennsylvania,PA,2021,9.8,9.5,10.2,19.1
+Pennsylvania,PA,2023,9.6,8.9,10.4,
+Rhode Island,RI,2019,10.7,10.2,11.2,16.8
+Rhode Island,RI,2021,8.2,8.2,8.3,18.5
+Rhode Island,RI,2023,9.3,7.9,10.6,
+South Carolina,SC,2019,9.2,9.4,8.8,23.0
+South Carolina,SC,2021,9.3,8.6,10.0,23.6
+South Carolina,SC,2023,,,,
+South Dakota,SD,2019,14.9,13.2,16.0,18.4
+South Dakota,SD,2021,11.1,11.5,10.7,19.3
+South Dakota,SD,2023,11.1,10.0,12.2,
+Tennessee,TN,2019,8.8,10.2,7.3,22.8
+Tennessee,TN,2021,13.4,9.3,17.4,23.0
+Tennessee,TN,2023,7.8,7.2,8.4,
+Texas,TX,2019,11.5,10.4,12.5,22.9
+Texas,TX,2021,13.2,12.4,14.1,23.3
+Texas,TX,2023,11.5,8.7,14.6,
+Utah,UT,2019,4.3,3.9,4.7,16.2
+Utah,UT,2021,3.6,3.3,3.9,15.1
+Utah,UT,2023,1.0,1.1,0.9,
+Virginia,VA,2019,12.7,11.9,13.4,16.1
+Virginia,VA,2021,10.5,9.2,11.9,16.6
+Virginia,VA,2023,7.0,6.2,7.8,
+Vermont,VT,2019,15.2,14.8,15.6,17.4
+Vermont,VT,2021,12.1,11.3,13.2,16.5
+Vermont,VT,2023,13.4,12.7,14.3,
+Washington,WA,2019,,,,15.8
+Washington,WA,2021,,,,16.5
+Washington,WA,2023,,,,
+Wisconsin,WI,2019,,,,16.9
+Wisconsin,WI,2021,,,,17.8
+Wisconsin,WI,2023,,,,
+West Virginia,WV,2019,16.4,16.2,16.1,26.1
+West Virginia,WV,2021,12.2,12.7,11.8,27.6
+West Virginia,WV,2023,,,,
+Wyoming,WY,2019,,,,16.9
+Wyoming,WY,2021,,,,19.2
+Wyoming,WY,2023,,,,
