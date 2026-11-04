@@ -1,0 +1,14 @@
+[project]
+name = "hw7"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "weather-kw3297>=0.1.1",
+]
+[[tool.uv.index]]
+name = "testpypi"
+url = "https://test.pypi.org/simple/"
+explicit = true
+
+[tool.uv.sources]
+weather_kw3297 = { index = "testpypi" }
